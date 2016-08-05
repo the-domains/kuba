@@ -1,4 +1,3 @@
-layout_spectrum: 0.07417597831226885
 typography_spectrum: 0.5197719354182482
 color:
   brandStrength: 0.29559074132703245
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.07417597831226885
 name: kuba
 title: Podróże małe i duże
+description: 'Blog o jedzeniu, podróżach i jedzeniu'
